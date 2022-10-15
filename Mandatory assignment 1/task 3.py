@@ -1,3 +1,5 @@
+''' This entire file is more or less useless, this is mereley a quick attempt to solve task 3, but it's not close to doing what its supposed to'''
+
 import numpy as np
 import matplotlib.pyplot as plt
 
